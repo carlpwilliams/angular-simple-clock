@@ -5,3 +5,6 @@ Simply show the time now. No Bells and no whistles.
 As attribute directive: &lt;div clock&gt;&lt;/clock&gt;
 
 As element directive: &lt;clock&gt;&lt;/clock&gt;
+
+## demo
+http://plnkr.co/edit/6jimLcpkG59uMye9AyaI?p=info
