@@ -1,4 +1,4 @@
-# angular-simple-clock
+# simple-angular-clock
 Simply show the time now. No Bells and no whistles.
 
 ## Usage
